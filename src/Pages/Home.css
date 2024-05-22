@@ -1,0 +1,18 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  @media (max-width: 600px) {
+    .TechStack {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
